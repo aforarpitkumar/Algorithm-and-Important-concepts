@@ -26,7 +26,7 @@ int main()
     Employee employee;
     
     employee.Name = "Arpit";
-    employee.Company = "HCL and blue stack";
+    employee.Company = "Random X";
     employee.Age = 23;
     employee.Intro();
 
