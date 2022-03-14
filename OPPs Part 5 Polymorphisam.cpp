@@ -45,6 +45,11 @@ class YoutubeChannel{
         }
     }
     
+    void Discription(){
+        
+        cout<<"Hello everyone it's "<< Owner_Name <<" here and this is my YoutubeChannel"<< endl;
+    }
+    
   
 };
 
