@@ -1,4 +1,7 @@
 
+// Polymorphism is the ability of an object to take on many forms.
+// that means a function return different properties for diffent sub classes.
+
 #include <iostream>
 #include <vector>
 
