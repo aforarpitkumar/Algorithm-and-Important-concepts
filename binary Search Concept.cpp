@@ -11,7 +11,7 @@ int BinarySearch(int n, int arr[], int key){
     
     while (s<=e){
         
-        int mid = s+e/2;
+        int mid = (s+e)/2;
         
         if(arr[mid]==key){
             
